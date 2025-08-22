@@ -16,7 +16,7 @@ O objetivo é oferecer uma **referência organizada para estudo, revisão e port
 
 # 📂 Estrutura das Aulas
 
-Cada pasta contém um diretório `src/` com todos os arquivos `.java`, facilitando a execução e estudo dos exercícios.
+Todos os exercícios estão organizados em pacotes dentro do diretório `src/`, separados por aulas, facilitando a navegação e o estudo do projeto
 
 ---
 
