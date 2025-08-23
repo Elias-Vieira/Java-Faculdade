@@ -65,6 +65,19 @@ Lista introdutória sobre **recursividade**, aplicada em problemas matemáticos 
 - Cálculo de **potência** com recursão
 - Sequência de **Fibonacci recursiva**
 
+
+## Aula 05 – Recursividade 2
+💡 **Descrição:**  
+Lista de exercícios avançados de **recursividade**, explorando sequências matemáticas e conversões numéricas.
+
+🎯 **Desafios trabalhados:**
+- Análise de uma função recursiva e criação da versão não recursiva
+- Soma da inversão de números de 1 até N
+- Cálculo do **N-ésimo número da sequência de Tribonacci**
+- Cálculo do **N-ésimo número da sequência de Pell**
+- Conversão recursiva de um número inteiro positivo para **binário**
+- Questão de múltipla escolha envolvendo função recursiva e valor de variável
+
 ---
 
 ## ▶️ Como Executar
