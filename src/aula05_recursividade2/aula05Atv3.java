@@ -8,7 +8,7 @@ da sequência: 0, 0, 1
 public class aula05Atv3 {
 
     public static void main(String[] args) {
-        System.out.println(tribonacci(10));
+        System.out.println(tribonacci(50));
 
     }
 

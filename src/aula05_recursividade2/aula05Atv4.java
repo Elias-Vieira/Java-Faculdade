@@ -9,7 +9,7 @@ public class aula05Atv4 {
 
     public static void main(String[] args) {
 
-        System.out.println(pell(10));
+        System.out.println(pell(6));
 
     }
 
