@@ -78,6 +78,20 @@ Lista de exercícios avançados de **recursividade**, explorando sequências mat
 - Conversão recursiva de um número inteiro positivo para **binário**
 - Questão de múltipla escolha envolvendo função recursiva e valor de variável
 
+
+## Aula 06 – Orientação a Objetos
+💡 **Descrição:**  
+Lista de exercícios práticos de **programação orientada a objetos em Java**, trabalhando com criação de classes, atributos, métodos, construtores, arrays de objetos e interação com o usuário.
+
+🎯 **Desafios trabalhados:**
+- Implementação da classe **Data**, utilizando construtor obrigatório e métodos para alterar e consultar valores.
+- Implementação da classe **Animal**, com construtor vazio e preenchimento de dados pelo usuário.
+- Implementação da classe **Retângulo**, com cálculo da área a partir da altura e largura.
+- Implementação da classe **Aluno**, armazenando notas em um array e cálculo da média.
+- Criação de um **array de objetos do tipo Aluno** com três posições, preenchido pelo usuário.
+- Prática de **encapsulamento** (uso de getters e setters) e exibição de dados no console.
+
+
 ---
 
 ## ▶️ Como Executar
