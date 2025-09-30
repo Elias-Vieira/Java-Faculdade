@@ -21,8 +21,7 @@ public class Aluno {
     }
 
     public double calcularMedia(){
-        double media = (notas[0] + notas[1] + notas[2]) / 3;
-        return media;
+        return (notas[0] + notas[1] + notas[2]) / 3;
     }
 
 
@@ -50,3 +49,5 @@ public class Aluno {
         this.notas = notas;
     }
 }
+
+
