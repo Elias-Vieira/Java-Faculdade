@@ -92,6 +92,24 @@ Lista de exercícios práticos de **programação orientada a objetos em Java**,
 - Prática de **encapsulamento** (uso de getters e setters) e exibição de dados no console.
 
 
+## Aula 07 – Orientação a Objetos 2
+💡 **Descrição:**  
+Lista de exercícios de **revisão e prática em Java**, reforçando os conceitos de programação orientada a objetos. Trabalhando com criação de classes, atributos privados, construtores, métodos (getters e setters), operações básicas, uso de **ArrayList** e cálculos aplicados a objetos.
+
+🎯 **Desafios trabalhados:**
+- Implementação da classe **Pessoa** com atributos privados (nome, idade e altura), métodos getters e setters, e exibição de informações a partir da classe **PrincipalPessoa**.
+- Implementação da classe **ContaCorrente**, com construtor para inicialização, métodos para depositar, sacar e verificar saldo, e simulação das operações na classe **PrincipalContaCorrente**.
+- Implementação da classe **Calculadora**, recebendo valores pelo construtor e oferecendo métodos para **soma, subtração, multiplicação e divisão**, com execução dos cálculos na classe **PrincipalCalculadora**.
+- Criação da classe **Livro**, com atributos privados (título, autor, ano e número de páginas), métodos getters e setters, além do método **exibirDadosLivro()**, manipulados em um **ArrayList** na classe **PrincipalLivro**.
+- Implementação da classe **Aluno**, com notas armazenadas em um vetor, cálculo da média e verificação de aprovação. Na classe **PrincipalAluno**, uso de um **ArrayList** para representar a turma, exibindo:
+   - Quantidade de alunos;
+   - Média geral da turma;
+   - Quantidade de aprovados e reprovados;
+   - Aluno com maior nota;
+   - Aluno com menor nota.
+
+
+
 ---
 
 ## ▶️ Como Executar
