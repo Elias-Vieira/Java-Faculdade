@@ -109,6 +109,42 @@ Lista de exercícios de **revisão e prática em Java**, reforçando os conceito
    - Aluno com menor nota.
 
 
+## Aula 08 – Orientação a Objetos 4: Herança
+💡 **Descrição:**  
+Exercício prático sobre **herança em Java**, utilizando o conceito de especialização de classes para representar diferentes tipos de ingressos. Demonstra como subclasses podem estender funcionalidades da classe base, promovendo reutilização e organização do código.
+
+🎯 **Desafios trabalhados:**
+- Criação da classe base `Ingresso`, com atributo de valor e método de exibição.
+- Implementação da subclasse `IngressoVip`, herdando de `Ingresso` e adicionando valor adicional.
+- Uso do `super` para acessar o valor do ingresso comum.
+- Implementação de método sobrescrito `exibirValorIngressoVip()` para exibir o valor total.
+- Teste das classes no método `main` com instanciação e exibição dos objetos.
+- Prática de reutilização de código e especialização de comportamento.
+
+
+## Aula 09 – Polimorfismo
+💡 **Descrição:**  
+Exercício prático de **polimorfismo em Java**, explorando como diferentes tipos de contas bancárias podem ser manipulados por meio de uma referência genérica. Demonstra o uso de sobreposição de métodos e listas polimórficas.
+
+🎯 **Desafios trabalhados:**
+- Criação da hierarquia `ContaBancaria` → `ContaCorrente` / `ContaPoupanca`.
+- Implementação de métodos sobrescritos `mostrarInfo()` em cada subclasse.
+- Utilização de `ArrayList<ContaBancaria>` para armazenar objetos de diferentes tipos.
+- Demonstração de polimorfismo de sobreposição com chamadas dinâmicas de métodos.
+- Simulação de um sistema bancário exibindo informações de contas de forma polimórfica.
+
+
+## Aula 10 – Exercício Prático: Baralho de Cartas
+💡 **Descrição:**  
+Desafio prático para aplicar conceitos de **orientação a objetos** em um contexto lúdico, construindo um sistema de baralho com geração aleatória de cartas únicas. Envolve encapsulamento, coleções e lógica de controle.
+
+🎯 **Desafios trabalhados:**
+- Criação da classe `Carta`, com atributos `numero` e `naipe`.
+- Implementação da classe `Baralho`, responsável por montar e exibir cartas.
+- Uso de `ArrayList` e `HashSet` para garantir unicidade das cartas.
+- Geração aleatória de cartas com controle de duplicidade.
+- Implementação de método `imprimirCartas()` para exibir todas as cartas geradas.
+- Aplicação de encapsulamento e boas práticas de estruturação de código.
 
 ---
 
